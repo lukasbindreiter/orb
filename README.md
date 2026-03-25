@@ -173,8 +173,10 @@ For more information see the readme in the [encoding/ewkb](encoding/ewkb) packag
 -   [`encoding/wkb`](encoding/wkb) - well-known binary as well as helpers to decode from the database queries
 -   [`encoding/ewkb`](encoding/ewkb) - extended well-known binary format that includes the SRID
 -   [`encoding/wkt`](encoding/wkt) - well-known text encoding
+-   [`geo`](geo) - algorithms for WGS84 geometry
 -   [`geojson`](geojson) - working with geojson and the types in this package
 -   [`maptile`](maptile) - working with mercator map tiles and quadkeys
+-   [`planar`](planar) - algorithms for planar geometry
 -   [`project`](project) - project geometries between geo and planar contexts
 -   [`quadtree`](quadtree) - quadtree implementation using the types in this package
 -   [`resample`](resample) - resample points in a line string geometry
